@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdamMaichrzik
 - 👀 I’m interested in front-end programming, web developement. 
 - 🌱 I’m currently learning angular, react js, photoshop. 
-- 📫 How to reach me www.adammaichrzik.pl
 
 
 <!---
